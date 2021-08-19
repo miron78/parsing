@@ -1,0 +1,5814 @@
+[
+    {
+        "name": "abkhazia",
+        "period_id": "1190"
+    },
+    {
+        "name": "austria",
+        "period_id": "311"
+    },
+    {
+        "name": "austria",
+        "period_id": "759"
+    },
+    {
+        "name": "austria",
+        "period_id": "59"
+    },
+    {
+        "name": "austria",
+        "period_id": "242"
+    },
+    {
+        "name": "austria",
+        "period_id": "298"
+    },
+    {
+        "name": "austria",
+        "period_id": "299"
+    },
+    {
+        "name": "austria",
+        "period_id": "548"
+    },
+    {
+        "name": "austria",
+        "period_id": "675"
+    },
+    {
+        "name": "austria",
+        "period_id": "810"
+    },
+    {
+        "name": "austria",
+        "period_id": "858"
+    },
+    {
+        "name": "austria",
+        "period_id": "989"
+    },
+    {
+        "name": "austria",
+        "period_id": "1043"
+    },
+    {
+        "name": "azerbaijan",
+        "period_id": "210"
+    },
+    {
+        "name": "azerbaijan",
+        "period_id": "32"
+    },
+    {
+        "name": "azerbaijan",
+        "period_id": "64"
+    },
+    {
+        "name": "azerbaijan",
+        "period_id": "65"
+    },
+    {
+        "name": "azores",
+        "period_id": "755"
+    },
+    {
+        "name": "azores",
+        "period_id": "754"
+    },
+    {
+        "name": "azores",
+        "period_id": "1010"
+    },
+    {
+        "name": "albania",
+        "period_id": "199"
+    },
+    {
+        "name": "albania",
+        "period_id": "203"
+    },
+    {
+        "name": "albania",
+        "period_id": "523"
+    },
+    {
+        "name": "albania",
+        "period_id": "522"
+    },
+    {
+        "name": "andorra",
+        "period_id": "305"
+    },
+    {
+        "name": "andorra",
+        "period_id": "415"
+    },
+    {
+        "name": "armenia",
+        "period_id": "134"
+    },
+    {
+        "name": "armenia",
+        "period_id": "32"
+    },
+    {
+        "name": "armenia",
+        "period_id": "64"
+    },
+    {
+        "name": "armenia",
+        "period_id": "65"
+    },
+    {
+        "name": "belarus",
+        "period_id": "122"
+    },
+    {
+        "name": "belarus",
+        "period_id": "32"
+    },
+    {
+        "name": "belarus",
+        "period_id": "64"
+    },
+    {
+        "name": "belgium",
+        "period_id": "306"
+    },
+    {
+        "name": "belgium",
+        "period_id": "49"
+    },
+    {
+        "name": "belgium",
+        "period_id": "798"
+    },
+    {
+        "name": "belgium",
+        "period_id": "107"
+    },
+    {
+        "name": "belgium",
+        "period_id": "245"
+    },
+    {
+        "name": "belgium",
+        "period_id": "269"
+    },
+    {
+        "name": "belgium",
+        "period_id": "367"
+    },
+    {
+        "name": "belgium",
+        "period_id": "421"
+    },
+    {
+        "name": "bulgaria",
+        "period_id": "103"
+    },
+    {
+        "name": "bulgaria",
+        "period_id": "137"
+    },
+    {
+        "name": "bulgaria",
+        "period_id": "133"
+    },
+    {
+        "name": "bulgaria",
+        "period_id": "229"
+    },
+    {
+        "name": "bulgaria",
+        "period_id": "230"
+    },
+    {
+        "name": "bulgaria",
+        "period_id": "348"
+    },
+    {
+        "name": "bosnia_herzegovina",
+        "period_id": "223"
+    },
+    {
+        "name": "bosnia_herzegovina",
+        "period_id": "296"
+    },
+    {
+        "name": "bosnia_herzegovina",
+        "period_id": "138"
+    },
+    {
+        "name": "bosnia_herzegovina",
+        "period_id": "278"
+    },
+    {
+        "name": "vatican_city",
+        "period_id": "326"
+    },
+    {
+        "name": "vatican_city",
+        "period_id": "167"
+    },
+    {
+        "name": "vatican_city",
+        "period_id": "422"
+    },
+    {
+        "name": "vatican_city",
+        "period_id": "423"
+    },
+    {
+        "name": "vatican_city",
+        "period_id": "424"
+    },
+    {
+        "name": "vatican_city",
+        "period_id": "425"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "8"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "11"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "30"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "36"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "77"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "131"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "283"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "614"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "613"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "779"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "805"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "808"
+    },
+    {
+        "name": "united_kingdom",
+        "period_id": "838"
+    },
+    {
+        "name": "hungary",
+        "period_id": "19"
+    },
+    {
+        "name": "hungary",
+        "period_id": "20"
+    },
+    {
+        "name": "hungary",
+        "period_id": "21"
+    },
+    {
+        "name": "hungary",
+        "period_id": "195"
+    },
+    {
+        "name": "hungary",
+        "period_id": "336"
+    },
+    {
+        "name": "hungary",
+        "period_id": "549"
+    },
+    {
+        "name": "hungary",
+        "period_id": "811"
+    },
+    {
+        "name": "hungary",
+        "period_id": "1020"
+    },
+    {
+        "name": "hungary",
+        "period_id": "1119"
+    },
+    {
+        "name": "hungary",
+        "period_id": "1120"
+    },
+    {
+        "name": "hungary",
+        "period_id": "1203"
+    },
+    {
+        "name": "germany",
+        "period_id": "1"
+    },
+    {
+        "name": "germany",
+        "period_id": "42"
+    },
+    {
+        "name": "germany",
+        "period_id": "929"
+    },
+    {
+        "name": "germany",
+        "period_id": "44"
+    },
+    {
+        "name": "germany",
+        "period_id": "43"
+    },
+    {
+        "name": "germany",
+        "period_id": "96"
+    },
+    {
+        "name": "germany",
+        "period_id": "95"
+    },
+    {
+        "name": "germany",
+        "period_id": "157"
+    },
+    {
+        "name": "germany",
+        "period_id": "156"
+    },
+    {
+        "name": "germany",
+        "period_id": "155"
+    },
+    {
+        "name": "germany",
+        "period_id": "471"
+    },
+    {
+        "name": "germany",
+        "period_id": "291"
+    },
+    {
+        "name": "guernsey",
+        "period_id": "277"
+    },
+    {
+        "name": "guernsey",
+        "period_id": "584"
+    },
+    {
+        "name": "gibraltar",
+        "period_id": "758"
+    },
+    {
+        "name": "gibraltar",
+        "period_id": "274"
+    },
+    {
+        "name": "gibraltar",
+        "period_id": "1143"
+    },
+    {
+        "name": "greece",
+        "period_id": "312"
+    },
+    {
+        "name": "greece",
+        "period_id": "951"
+    },
+    {
+        "name": "greece",
+        "period_id": "33"
+    },
+    {
+        "name": "greece",
+        "period_id": "196"
+    },
+    {
+        "name": "greece",
+        "period_id": "198"
+    },
+    {
+        "name": "greece",
+        "period_id": "227"
+    },
+    {
+        "name": "greece",
+        "period_id": "1302"
+    },
+    {
+        "name": "greece",
+        "period_id": "226"
+    },
+    {
+        "name": "greece",
+        "period_id": "387"
+    },
+    {
+        "name": "greece",
+        "period_id": "632"
+    },
+    {
+        "name": "greece",
+        "period_id": "633"
+    },
+    {
+        "name": "georgia",
+        "period_id": "159"
+    },
+    {
+        "name": "georgia",
+        "period_id": "32"
+    },
+    {
+        "name": "georgia",
+        "period_id": "64"
+    },
+    {
+        "name": "georgia",
+        "period_id": "65"
+    },
+    {
+        "name": "georgia",
+        "period_id": "1191"
+    },
+    {
+        "name": "denmark",
+        "period_id": "45"
+    },
+    {
+        "name": "denmark",
+        "period_id": "98"
+    },
+    {
+        "name": "denmark",
+        "period_id": "146"
+    },
+    {
+        "name": "denmark",
+        "period_id": "220"
+    },
+    {
+        "name": "denmark",
+        "period_id": "373"
+    },
+    {
+        "name": "denmark",
+        "period_id": "374"
+    },
+    {
+        "name": "denmark",
+        "period_id": "646"
+    },
+    {
+        "name": "denmark",
+        "period_id": "647"
+    },
+    {
+        "name": "denmark",
+        "period_id": "846"
+    },
+    {
+        "name": "denmark",
+        "period_id": "1115"
+    },
+    {
+        "name": "denmark",
+        "period_id": "1147"
+    },
+    {
+        "name": "jersey",
+        "period_id": "331"
+    },
+    {
+        "name": "jersey",
+        "period_id": "460"
+    },
+    {
+        "name": "ireland",
+        "period_id": "313"
+    },
+    {
+        "name": "ireland",
+        "period_id": "1121"
+    },
+    {
+        "name": "ireland",
+        "period_id": "38"
+    },
+    {
+        "name": "ireland",
+        "period_id": "332"
+    },
+    {
+        "name": "ireland",
+        "period_id": "340"
+    },
+    {
+        "name": "ireland",
+        "period_id": "787"
+    },
+    {
+        "name": "ireland",
+        "period_id": "1022"
+    },
+    {
+        "name": "iceland",
+        "period_id": "129"
+    },
+    {
+        "name": "iceland",
+        "period_id": "252"
+    },
+    {
+        "name": "iceland",
+        "period_id": "338"
+    },
+    {
+        "name": "spain",
+        "period_id": "325"
+    },
+    {
+        "name": "spain",
+        "period_id": "792"
+    },
+    {
+        "name": "spain",
+        "period_id": "67"
+    },
+    {
+        "name": "spain",
+        "period_id": "112"
+    },
+    {
+        "name": "spain",
+        "period_id": "194"
+    },
+    {
+        "name": "spain",
+        "period_id": "256"
+    },
+    {
+        "name": "spain",
+        "period_id": "417"
+    },
+    {
+        "name": "spain",
+        "period_id": "426"
+    },
+    {
+        "name": "spain",
+        "period_id": "474"
+    },
+    {
+        "name": "spain",
+        "period_id": "512"
+    },
+    {
+        "name": "spain",
+        "period_id": "796"
+    },
+    {
+        "name": "spain",
+        "period_id": "791"
+    },
+    {
+        "name": "spain",
+        "period_id": "879"
+    },
+    {
+        "name": "spain",
+        "period_id": "880"
+    },
+    {
+        "name": "spain",
+        "period_id": "881"
+    },
+    {
+        "name": "spain",
+        "period_id": "973"
+    },
+    {
+        "name": "spain",
+        "period_id": "974"
+    },
+    {
+        "name": "spain",
+        "period_id": "1066"
+    },
+    {
+        "name": "spain",
+        "period_id": "1065"
+    },
+    {
+        "name": "italy",
+        "period_id": "314"
+    },
+    {
+        "name": "italy",
+        "period_id": "69"
+    },
+    {
+        "name": "italy",
+        "period_id": "102"
+    },
+    {
+        "name": "italy",
+        "period_id": "479"
+    },
+    {
+        "name": "italy",
+        "period_id": "478"
+    },
+    {
+        "name": "italy",
+        "period_id": "865"
+    },
+    {
+        "name": "kazakhstan",
+        "period_id": "108"
+    },
+    {
+        "name": "kazakhstan",
+        "period_id": "32"
+    },
+    {
+        "name": "kazakhstan",
+        "period_id": "64"
+    },
+    {
+        "name": "kazakhstan",
+        "period_id": "65"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "307"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "118"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "206"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "353"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "541"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "542"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "543"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "544"
+    },
+    {
+        "name": "latvia",
+        "period_id": "315"
+    },
+    {
+        "name": "latvia",
+        "period_id": "48"
+    },
+    {
+        "name": "latvia",
+        "period_id": "32"
+    },
+    {
+        "name": "latvia",
+        "period_id": "64"
+    },
+    {
+        "name": "latvia",
+        "period_id": "139"
+    },
+    {
+        "name": "lithuania",
+        "period_id": "316"
+    },
+    {
+        "name": "lithuania",
+        "period_id": "39"
+    },
+    {
+        "name": "lithuania",
+        "period_id": "32"
+    },
+    {
+        "name": "lithuania",
+        "period_id": "64"
+    },
+    {
+        "name": "lithuania",
+        "period_id": "68"
+    },
+    {
+        "name": "lithuania",
+        "period_id": "802"
+    },
+    {
+        "name": "lithuania",
+        "period_id": "1026"
+    },
+    {
+        "name": "lithuania",
+        "period_id": "1183"
+    },
+    {
+        "name": "lithuania",
+        "period_id": "1185"
+    },
+    {
+        "name": "liechtenstein",
+        "period_id": "794"
+    },
+    {
+        "name": "liechtenstein",
+        "period_id": "609"
+    },
+    {
+        "name": "liechtenstein",
+        "period_id": "610"
+    },
+    {
+        "name": "luxembourg",
+        "period_id": "317"
+    },
+    {
+        "name": "luxembourg",
+        "period_id": "761"
+    },
+    {
+        "name": "luxembourg",
+        "period_id": "164"
+    },
+    {
+        "name": "luxembourg",
+        "period_id": "343"
+    },
+    {
+        "name": "luxembourg",
+        "period_id": "676"
+    },
+    {
+        "name": "luxembourg",
+        "period_id": "1042"
+    },
+    {
+        "name": "madeira_islands",
+        "period_id": "1076"
+    },
+    {
+        "name": "madeira_islands",
+        "period_id": "1030"
+    },
+    {
+        "name": "malta",
+        "period_id": "318"
+    },
+    {
+        "name": "malta",
+        "period_id": "136"
+    },
+    {
+        "name": "order_of_malta",
+        "period_id": "752"
+    },
+    {
+        "name": "moldova",
+        "period_id": "115"
+    },
+    {
+        "name": "moldova",
+        "period_id": "32"
+    },
+    {
+        "name": "moldova",
+        "period_id": "64"
+    },
+    {
+        "name": "monaco",
+        "period_id": "319"
+    },
+    {
+        "name": "monaco",
+        "period_id": "176"
+    },
+    {
+        "name": "monaco",
+        "period_id": "569"
+    },
+    {
+        "name": "netherlands",
+        "period_id": "320"
+    },
+    {
+        "name": "netherlands",
+        "period_id": "52"
+    },
+    {
+        "name": "netherlands",
+        "period_id": "784"
+    },
+    {
+        "name": "netherlands",
+        "period_id": "92"
+    },
+    {
+        "name": "netherlands",
+        "period_id": "268"
+    },
+    {
+        "name": "netherlands",
+        "period_id": "337"
+    },
+    {
+        "name": "netherlands",
+        "period_id": "431"
+    },
+    {
+        "name": "netherlands",
+        "period_id": "432"
+    },
+    {
+        "name": "netherlands",
+        "period_id": "1201"
+    },
+    {
+        "name": "netherlands",
+        "period_id": "1199"
+    },
+    {
+        "name": "norway",
+        "period_id": "57"
+    },
+    {
+        "name": "norway",
+        "period_id": "130"
+    },
+    {
+        "name": "norway",
+        "period_id": "267"
+    },
+    {
+        "name": "norway",
+        "period_id": "394"
+    },
+    {
+        "name": "norway",
+        "period_id": "783"
+    },
+    {
+        "name": "norway",
+        "period_id": "883"
+    },
+    {
+        "name": "norway",
+        "period_id": "1041"
+    },
+    {
+        "name": "alderney",
+        "period_id": "622"
+    },
+    {
+        "name": "isle_of_man",
+        "period_id": "793"
+    },
+    {
+        "name": "isle_of_man",
+        "period_id": "231"
+    },
+    {
+        "name": "isle_of_man",
+        "period_id": "971"
+    },
+    {
+        "name": "poland",
+        "period_id": "63"
+    },
+    {
+        "name": "poland",
+        "period_id": "109"
+    },
+    {
+        "name": "poland",
+        "period_id": "105"
+    },
+    {
+        "name": "poland",
+        "period_id": "110"
+    },
+    {
+        "name": "poland",
+        "period_id": "890"
+    },
+    {
+        "name": "poland",
+        "period_id": "163"
+    },
+    {
+        "name": "poland",
+        "period_id": "265"
+    },
+    {
+        "name": "poland",
+        "period_id": "771"
+    },
+    {
+        "name": "poland",
+        "period_id": "550"
+    },
+    {
+        "name": "poland",
+        "period_id": "699"
+    },
+    {
+        "name": "poland",
+        "period_id": "802"
+    },
+    {
+        "name": "poland",
+        "period_id": "851"
+    },
+    {
+        "name": "poland",
+        "period_id": "964"
+    },
+    {
+        "name": "poland",
+        "period_id": "965"
+    },
+    {
+        "name": "poland",
+        "period_id": "1027"
+    },
+    {
+        "name": "poland",
+        "period_id": "1026"
+    },
+    {
+        "name": "poland",
+        "period_id": "1182"
+    },
+    {
+        "name": "poland",
+        "period_id": "1183"
+    },
+    {
+        "name": "poland",
+        "period_id": "1185"
+    },
+    {
+        "name": "portugal",
+        "period_id": "321"
+    },
+    {
+        "name": "portugal",
+        "period_id": "126"
+    },
+    {
+        "name": "portugal",
+        "period_id": "795"
+    },
+    {
+        "name": "portugal",
+        "period_id": "132"
+    },
+    {
+        "name": "portugal",
+        "period_id": "232"
+    },
+    {
+        "name": "portugal",
+        "period_id": "564"
+    },
+    {
+        "name": "portugal",
+        "period_id": "814"
+    },
+    {
+        "name": "portugal",
+        "period_id": "1008"
+    },
+    {
+        "name": "portugal",
+        "period_id": "1164"
+    },
+    {
+        "name": "transnistria",
+        "period_id": "263"
+    },
+    {
+        "name": "russia",
+        "period_id": "12"
+    },
+    {
+        "name": "russia",
+        "period_id": "27"
+    },
+    {
+        "name": "russia",
+        "period_id": "28"
+    },
+    {
+        "name": "russia",
+        "period_id": "32"
+    },
+    {
+        "name": "russia",
+        "period_id": "64"
+    },
+    {
+        "name": "russia",
+        "period_id": "65"
+    },
+    {
+        "name": "russia",
+        "period_id": "178"
+    },
+    {
+        "name": "russia",
+        "period_id": "279"
+    },
+    {
+        "name": "russia",
+        "period_id": "280"
+    },
+    {
+        "name": "russia",
+        "period_id": "507"
+    },
+    {
+        "name": "russia",
+        "period_id": "508"
+    },
+    {
+        "name": "russia",
+        "period_id": "509"
+    },
+    {
+        "name": "russia",
+        "period_id": "1200"
+    },
+    {
+        "name": "russia",
+        "period_id": "738"
+    },
+    {
+        "name": "russia",
+        "period_id": "615"
+    },
+    {
+        "name": "russia",
+        "period_id": "616"
+    },
+    {
+        "name": "russia",
+        "period_id": "617"
+    },
+    {
+        "name": "russia",
+        "period_id": "729"
+    },
+    {
+        "name": "russia",
+        "period_id": "728"
+    },
+    {
+        "name": "russia",
+        "period_id": "730"
+    },
+    {
+        "name": "russia",
+        "period_id": "731"
+    },
+    {
+        "name": "russia",
+        "period_id": "732"
+    },
+    {
+        "name": "russia",
+        "period_id": "1162"
+    },
+    {
+        "name": "romania",
+        "period_id": "113"
+    },
+    {
+        "name": "romania",
+        "period_id": "142"
+    },
+    {
+        "name": "romania",
+        "period_id": "149"
+    },
+    {
+        "name": "romania",
+        "period_id": "270"
+    },
+    {
+        "name": "romania",
+        "period_id": "273"
+    },
+    {
+        "name": "san_marino",
+        "period_id": "322"
+    },
+    {
+        "name": "san_marino",
+        "period_id": "168"
+    },
+    {
+        "name": "san_marino",
+        "period_id": "562"
+    },
+    {
+        "name": "seborga",
+        "period_id": "1129"
+    },
+    {
+        "name": "macedonia",
+        "period_id": "266"
+    },
+    {
+        "name": "macedonia",
+        "period_id": "138"
+    },
+    {
+        "name": "macedonia",
+        "period_id": "278"
+    },
+    {
+        "name": "serbia",
+        "period_id": "119"
+    },
+    {
+        "name": "serbia",
+        "period_id": "124"
+    },
+    {
+        "name": "serbia",
+        "period_id": "138"
+    },
+    {
+        "name": "serbia",
+        "period_id": "398"
+    },
+    {
+        "name": "serbia",
+        "period_id": "278"
+    },
+    {
+        "name": "serbia",
+        "period_id": "400"
+    },
+    {
+        "name": "serbia",
+        "period_id": "399"
+    },
+    {
+        "name": "sealand",
+        "period_id": "1193"
+    },
+    {
+        "name": "slovakia",
+        "period_id": "323"
+    },
+    {
+        "name": "slovakia",
+        "period_id": "23"
+    },
+    {
+        "name": "slovakia",
+        "period_id": "35"
+    },
+    {
+        "name": "slovakia",
+        "period_id": "37"
+    },
+    {
+        "name": "slovakia",
+        "period_id": "207"
+    },
+    {
+        "name": "slovakia",
+        "period_id": "215"
+    },
+    {
+        "name": "slovakia",
+        "period_id": "172"
+    },
+    {
+        "name": "slovenia",
+        "period_id": "324"
+    },
+    {
+        "name": "slovenia",
+        "period_id": "61"
+    },
+    {
+        "name": "slovenia",
+        "period_id": "138"
+    },
+    {
+        "name": "slovenia",
+        "period_id": "278"
+    },
+    {
+        "name": "turkey",
+        "period_id": "55"
+    },
+    {
+        "name": "turkey",
+        "period_id": "97"
+    },
+    {
+        "name": "turkey",
+        "period_id": "127"
+    },
+    {
+        "name": "turkey",
+        "period_id": "141"
+    },
+    {
+        "name": "turkey",
+        "period_id": "341"
+    },
+    {
+        "name": "turkey",
+        "period_id": "498"
+    },
+    {
+        "name": "turkey",
+        "period_id": "499"
+    },
+    {
+        "name": "turkey",
+        "period_id": "500"
+    },
+    {
+        "name": "turkey",
+        "period_id": "501"
+    },
+    {
+        "name": "turkey",
+        "period_id": "502"
+    },
+    {
+        "name": "turkey",
+        "period_id": "933"
+    },
+    {
+        "name": "ukraine",
+        "period_id": "54"
+    },
+    {
+        "name": "ukraine",
+        "period_id": "32"
+    },
+    {
+        "name": "ukraine",
+        "period_id": "64"
+    },
+    {
+        "name": "faroes",
+        "period_id": "766"
+    },
+    {
+        "name": "finland",
+        "period_id": "309"
+    },
+    {
+        "name": "finland",
+        "period_id": "930"
+    },
+    {
+        "name": "finland",
+        "period_id": "120"
+    },
+    {
+        "name": "finland",
+        "period_id": "145"
+    },
+    {
+        "name": "finland",
+        "period_id": "200"
+    },
+    {
+        "name": "finland",
+        "period_id": "510"
+    },
+    {
+        "name": "finland",
+        "period_id": "511"
+    },
+    {
+        "name": "france",
+        "period_id": "310"
+    },
+    {
+        "name": "france",
+        "period_id": "1001"
+    },
+    {
+        "name": "france",
+        "period_id": "58"
+    },
+    {
+        "name": "france",
+        "period_id": "73"
+    },
+    {
+        "name": "france",
+        "period_id": "188"
+    },
+    {
+        "name": "france",
+        "period_id": "222"
+    },
+    {
+        "name": "france",
+        "period_id": "449"
+    },
+    {
+        "name": "france",
+        "period_id": "537"
+    },
+    {
+        "name": "france",
+        "period_id": "740"
+    },
+    {
+        "name": "france",
+        "period_id": "1148"
+    },
+    {
+        "name": "france",
+        "period_id": "741"
+    },
+    {
+        "name": "france",
+        "period_id": "856"
+    },
+    {
+        "name": "france",
+        "period_id": "857"
+    },
+    {
+        "name": "france",
+        "period_id": "867"
+    },
+    {
+        "name": "france",
+        "period_id": "972"
+    },
+    {
+        "name": "croatia",
+        "period_id": "29"
+    },
+    {
+        "name": "croatia",
+        "period_id": "138"
+    },
+    {
+        "name": "croatia",
+        "period_id": "574"
+    },
+    {
+        "name": "croatia",
+        "period_id": "278"
+    },
+    {
+        "name": "montenegro",
+        "period_id": "124"
+    },
+    {
+        "name": "montenegro",
+        "period_id": "138"
+    },
+    {
+        "name": "montenegro",
+        "period_id": "453"
+    },
+    {
+        "name": "czech_republic",
+        "period_id": "25"
+    },
+    {
+        "name": "czech_republic",
+        "period_id": "35"
+    },
+    {
+        "name": "czech_republic",
+        "period_id": "37"
+    },
+    {
+        "name": "czech_republic",
+        "period_id": "207"
+    },
+    {
+        "name": "czech_republic",
+        "period_id": "213"
+    },
+    {
+        "name": "czech_republic",
+        "period_id": "172"
+    },
+    {
+        "name": "switzerland",
+        "period_id": "7"
+    },
+    {
+        "name": "switzerland",
+        "period_id": "62"
+    },
+    {
+        "name": "switzerland",
+        "period_id": "504"
+    },
+    {
+        "name": "switzerland",
+        "period_id": "828"
+    },
+    {
+        "name": "sweden",
+        "period_id": "40"
+    },
+    {
+        "name": "sweden",
+        "period_id": "89"
+    },
+    {
+        "name": "sweden",
+        "period_id": "165"
+    },
+    {
+        "name": "sweden",
+        "period_id": "381"
+    },
+    {
+        "name": "sweden",
+        "period_id": "671"
+    },
+    {
+        "name": "sweden",
+        "period_id": "672"
+    },
+    {
+        "name": "sweden",
+        "period_id": "827"
+    },
+    {
+        "name": "sweden",
+        "period_id": "955"
+    },
+    {
+        "name": "sweden",
+        "period_id": "1072"
+    },
+    {
+        "name": "sweden",
+        "period_id": "1244"
+    },
+    {
+        "name": "sweden",
+        "period_id": "1249"
+    },
+    {
+        "name": "estonia",
+        "period_id": "308"
+    },
+    {
+        "name": "estonia",
+        "period_id": "56"
+    },
+    {
+        "name": "estonia",
+        "period_id": "32"
+    },
+    {
+        "name": "estonia",
+        "period_id": "64"
+    },
+    {
+        "name": "estonia",
+        "period_id": "99"
+    },
+    {
+        "name": "estonia",
+        "period_id": "100"
+    },
+    {
+        "name": "anguilla",
+        "period_id": "769"
+    },
+    {
+        "name": "antigua_barbuda",
+        "period_id": "743"
+    },
+    {
+        "name": "argentina",
+        "period_id": "74"
+    },
+    {
+        "name": "argentina",
+        "period_id": "75"
+    },
+    {
+        "name": "argentina",
+        "period_id": "78"
+    },
+    {
+        "name": "argentina",
+        "period_id": "79"
+    },
+    {
+        "name": "argentina",
+        "period_id": "154"
+    },
+    {
+        "name": "aruba",
+        "period_id": "286"
+    },
+    {
+        "name": "aruba",
+        "period_id": "191"
+    },
+    {
+        "name": "bahamas",
+        "period_id": "240"
+    },
+    {
+        "name": "barbados",
+        "period_id": "197"
+    },
+    {
+        "name": "belize",
+        "period_id": "281"
+    },
+    {
+        "name": "belize",
+        "period_id": "590"
+    },
+    {
+        "name": "bermuda",
+        "period_id": "241"
+    },
+    {
+        "name": "bermuda",
+        "period_id": "717"
+    },
+    {
+        "name": "bolivia",
+        "period_id": "224"
+    },
+    {
+        "name": "bolivia",
+        "period_id": "282"
+    },
+    {
+        "name": "bolivia",
+        "period_id": "292"
+    },
+    {
+        "name": "bolivia",
+        "period_id": "1017"
+    },
+    {
+        "name": "bolivia",
+        "period_id": "368"
+    },
+    {
+        "name": "bolivia",
+        "period_id": "893"
+    },
+    {
+        "name": "bolivia",
+        "period_id": "1018"
+    },
+    {
+        "name": "bolivia",
+        "period_id": "1235"
+    },
+    {
+        "name": "brazil",
+        "period_id": "81"
+    },
+    {
+        "name": "brazil",
+        "period_id": "82"
+    },
+    {
+        "name": "brazil",
+        "period_id": "83"
+    },
+    {
+        "name": "brazil",
+        "period_id": "84"
+    },
+    {
+        "name": "brazil",
+        "period_id": "85"
+    },
+    {
+        "name": "brazil",
+        "period_id": "174"
+    },
+    {
+        "name": "brazil",
+        "period_id": "444"
+    },
+    {
+        "name": "brazil",
+        "period_id": "445"
+    },
+    {
+        "name": "brazil",
+        "period_id": "446"
+    },
+    {
+        "name": "brazil",
+        "period_id": "923"
+    },
+    {
+        "name": "brazil",
+        "period_id": "875"
+    },
+    {
+        "name": "brazil",
+        "period_id": "876"
+    },
+    {
+        "name": "brazil",
+        "period_id": "1080"
+    },
+    {
+        "name": "brazil",
+        "period_id": "1079"
+    },
+    {
+        "name": "brazil",
+        "period_id": "1081"
+    },
+    {
+        "name": "british_antarctic_territory",
+        "period_id": "715"
+    },
+    {
+        "name": "virgin_islands_british",
+        "period_id": "515"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "859"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "71"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "70"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "72"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "1158"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "204"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "709"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "1207"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "708"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "1208"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "1210"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "1206"
+    },
+    {
+        "name": "venezuela",
+        "period_id": "1209"
+    },
+    {
+        "name": "eastern_caribbean",
+        "period_id": "287"
+    },
+    {
+        "name": "eastern_caribbean",
+        "period_id": "503"
+    },
+    {
+        "name": "haiti",
+        "period_id": "391"
+    },
+    {
+        "name": "haiti",
+        "period_id": "513"
+    },
+    {
+        "name": "haiti",
+        "period_id": "762"
+    },
+    {
+        "name": "haiti",
+        "period_id": "753"
+    },
+    {
+        "name": "guyana",
+        "period_id": "344"
+    },
+    {
+        "name": "guyana",
+        "period_id": "736"
+    },
+    {
+        "name": "guyana",
+        "period_id": "737"
+    },
+    {
+        "name": "guyana",
+        "period_id": "891"
+    },
+    {
+        "name": "guadeloupe",
+        "period_id": "789"
+    },
+    {
+        "name": "guatemala",
+        "period_id": "225"
+    },
+    {
+        "name": "guatemala",
+        "period_id": "585"
+    },
+    {
+        "name": "guatemala",
+        "period_id": "589"
+    },
+    {
+        "name": "guatemala",
+        "period_id": "815"
+    },
+    {
+        "name": "guatemala",
+        "period_id": "1105"
+    },
+    {
+        "name": "honduras",
+        "period_id": "300"
+    },
+    {
+        "name": "honduras",
+        "period_id": "1106"
+    },
+    {
+        "name": "honduras",
+        "period_id": "1107"
+    },
+    {
+        "name": "grenada",
+        "period_id": "746"
+    },
+    {
+        "name": "greenland",
+        "period_id": "45"
+    },
+    {
+        "name": "greenland",
+        "period_id": "98"
+    },
+    {
+        "name": "greenland",
+        "period_id": "733"
+    },
+    {
+        "name": "greenland",
+        "period_id": "1128"
+    },
+    {
+        "name": "dominica",
+        "period_id": "745"
+    },
+    {
+        "name": "dominican_republic",
+        "period_id": "244"
+    },
+    {
+        "name": "dominican_republic",
+        "period_id": "895"
+    },
+    {
+        "name": "cayman_islands",
+        "period_id": "239"
+    },
+    {
+        "name": "canada",
+        "period_id": "24"
+    },
+    {
+        "name": "canada",
+        "period_id": "128"
+    },
+    {
+        "name": "canada",
+        "period_id": "275"
+    },
+    {
+        "name": "canada",
+        "period_id": "392"
+    },
+    {
+        "name": "canada",
+        "period_id": "555"
+    },
+    {
+        "name": "caribbean_netherlands",
+        "period_id": "864"
+    },
+    {
+        "name": "colombia",
+        "period_id": "94"
+    },
+    {
+        "name": "colombia",
+        "period_id": "180"
+    },
+    {
+        "name": "colombia",
+        "period_id": "774"
+    },
+    {
+        "name": "colombia",
+        "period_id": "764"
+    },
+    {
+        "name": "colombia",
+        "period_id": "763"
+    },
+    {
+        "name": "colombia",
+        "period_id": "818"
+    },
+    {
+        "name": "colombia",
+        "period_id": "819"
+    },
+    {
+        "name": "colombia",
+        "period_id": "945"
+    },
+    {
+        "name": "colombia",
+        "period_id": "944"
+    },
+    {
+        "name": "colombia",
+        "period_id": "946"
+    },
+    {
+        "name": "colombia",
+        "period_id": "1019"
+    },
+    {
+        "name": "colombia",
+        "period_id": "1177"
+    },
+    {
+        "name": "costa_rica",
+        "period_id": "144"
+    },
+    {
+        "name": "costa_rica",
+        "period_id": "433"
+    },
+    {
+        "name": "costa_rica",
+        "period_id": "358"
+    },
+    {
+        "name": "costa_rica",
+        "period_id": "707"
+    },
+    {
+        "name": "cuba",
+        "period_id": "181"
+    },
+    {
+        "name": "cuba",
+        "period_id": "339"
+    },
+    {
+        "name": "curacao",
+        "period_id": "598"
+    },
+    {
+        "name": "martinique",
+        "period_id": "790"
+    },
+    {
+        "name": "mexico",
+        "period_id": "80"
+    },
+    {
+        "name": "mexico",
+        "period_id": "86"
+    },
+    {
+        "name": "mexico",
+        "period_id": "205"
+    },
+    {
+        "name": "mexico",
+        "period_id": "721"
+    },
+    {
+        "name": "mexico",
+        "period_id": "722"
+    },
+    {
+        "name": "mexico",
+        "period_id": "782"
+    },
+    {
+        "name": "mexico",
+        "period_id": "1137"
+    },
+    {
+        "name": "mexico",
+        "period_id": "922"
+    },
+    {
+        "name": "mexico",
+        "period_id": "1135"
+    },
+    {
+        "name": "mexico",
+        "period_id": "1136"
+    },
+    {
+        "name": "montserrat",
+        "period_id": "749"
+    },
+    {
+        "name": "netherlands_antilles",
+        "period_id": "486"
+    },
+    {
+        "name": "netherlands_antilles",
+        "period_id": "254"
+    },
+    {
+        "name": "netherlands_antilles",
+        "period_id": "255"
+    },
+    {
+        "name": "netherlands_antilles",
+        "period_id": "598"
+    },
+    {
+        "name": "nicaragua",
+        "period_id": "260"
+    },
+    {
+        "name": "nicaragua",
+        "period_id": "261"
+    },
+    {
+        "name": "nicaragua",
+        "period_id": "918"
+    },
+    {
+        "name": "panama",
+        "period_id": "192"
+    },
+    {
+        "name": "panama",
+        "period_id": "651"
+    },
+    {
+        "name": "paraguay",
+        "period_id": "140"
+    },
+    {
+        "name": "paraguay",
+        "period_id": "581"
+    },
+    {
+        "name": "paraguay",
+        "period_id": "1050"
+    },
+    {
+        "name": "peru",
+        "period_id": "88"
+    },
+    {
+        "name": "peru",
+        "period_id": "158"
+    },
+    {
+        "name": "peru",
+        "period_id": "162"
+    },
+    {
+        "name": "peru",
+        "period_id": "744"
+    },
+    {
+        "name": "peru",
+        "period_id": "720"
+    },
+    {
+        "name": "peru",
+        "period_id": "987"
+    },
+    {
+        "name": "peru",
+        "period_id": "1245"
+    },
+    {
+        "name": "peru",
+        "period_id": "1024"
+    },
+    {
+        "name": "puerto_rico",
+        "period_id": "777"
+    },
+    {
+        "name": "el_salvador",
+        "period_id": "259"
+    },
+    {
+        "name": "el_salvador",
+        "period_id": "580"
+    },
+    {
+        "name": "saint_pierre_miquelon",
+        "period_id": "768"
+    },
+    {
+        "name": "saint_vincent_grenadines",
+        "period_id": "750"
+    },
+    {
+        "name": "saint_kitts_nevis",
+        "period_id": "748"
+    },
+    {
+        "name": "saint_lucia",
+        "period_id": "747"
+    },
+    {
+        "name": "suriname",
+        "period_id": "412"
+    },
+    {
+        "name": "suriname",
+        "period_id": "411"
+    },
+    {
+        "name": "suriname",
+        "period_id": "625"
+    },
+    {
+        "name": "usa",
+        "period_id": "90"
+    },
+    {
+        "name": "usa",
+        "period_id": "91"
+    },
+    {
+        "name": "usa",
+        "period_id": "147"
+    },
+    {
+        "name": "usa",
+        "period_id": "276"
+    },
+    {
+        "name": "usa",
+        "period_id": "611"
+    },
+    {
+        "name": "turks_caicos_islands",
+        "period_id": "601"
+    },
+    {
+        "name": "trinidad_tobago",
+        "period_id": "228"
+    },
+    {
+        "name": "trinidad_tobago",
+        "period_id": "330"
+    },
+    {
+        "name": "uruguay",
+        "period_id": "151"
+    },
+    {
+        "name": "uruguay",
+        "period_id": "218"
+    },
+    {
+        "name": "uruguay",
+        "period_id": "219"
+    },
+    {
+        "name": "uruguay",
+        "period_id": "909"
+    },
+    {
+        "name": "falkland_islands",
+        "period_id": "477"
+    },
+    {
+        "name": "french_guiana",
+        "period_id": "788"
+    },
+    {
+        "name": "chile",
+        "period_id": "87"
+    },
+    {
+        "name": "chile",
+        "period_id": "170"
+    },
+    {
+        "name": "chile",
+        "period_id": "247"
+    },
+    {
+        "name": "chile",
+        "period_id": "556"
+    },
+    {
+        "name": "chile",
+        "period_id": "557"
+    },
+    {
+        "name": "chile",
+        "period_id": "1023"
+    },
+    {
+        "name": "ecuador",
+        "period_id": "101"
+    },
+    {
+        "name": "ecuador",
+        "period_id": "257"
+    },
+    {
+        "name": "ecuador",
+        "period_id": "258"
+    },
+    {
+        "name": "ecuador",
+        "period_id": "765"
+    },
+    {
+        "name": "ecuador",
+        "period_id": "1134"
+    },
+    {
+        "name": "south_georgia",
+        "period_id": "714"
+    },
+    {
+        "name": "jamaica",
+        "period_id": "179"
+    },
+    {
+        "name": "jamaica",
+        "period_id": "463"
+    },
+    {
+        "name": "abkhazia",
+        "period_id": "1190"
+    },
+    {
+        "name": "azerbaijan",
+        "period_id": "210"
+    },
+    {
+        "name": "azerbaijan",
+        "period_id": "32"
+    },
+    {
+        "name": "azerbaijan",
+        "period_id": "64"
+    },
+    {
+        "name": "azerbaijan",
+        "period_id": "65"
+    },
+    {
+        "name": "armenia",
+        "period_id": "134"
+    },
+    {
+        "name": "armenia",
+        "period_id": "32"
+    },
+    {
+        "name": "armenia",
+        "period_id": "64"
+    },
+    {
+        "name": "armenia",
+        "period_id": "65"
+    },
+    {
+        "name": "afghanistan",
+        "period_id": "250"
+    },
+    {
+        "name": "afghanistan",
+        "period_id": "251"
+    },
+    {
+        "name": "afghanistan",
+        "period_id": "981"
+    },
+    {
+        "name": "bangladesh",
+        "period_id": "201"
+    },
+    {
+        "name": "bahrain",
+        "period_id": "362"
+    },
+    {
+        "name": "biot",
+        "period_id": "716"
+    },
+    {
+        "name": "brunei",
+        "period_id": "209"
+    },
+    {
+        "name": "bhutan",
+        "period_id": "429"
+    },
+    {
+        "name": "bhutan",
+        "period_id": "697"
+    },
+    {
+        "name": "bhutan",
+        "period_id": "698"
+    },
+    {
+        "name": "bhutan",
+        "period_id": "1160"
+    },
+    {
+        "name": "east_timor",
+        "period_id": "594"
+    },
+    {
+        "name": "east_timor",
+        "period_id": "593"
+    },
+    {
+        "name": "east_timor",
+        "period_id": "592"
+    },
+    {
+        "name": "vietnam",
+        "period_id": "175"
+    },
+    {
+        "name": "vietnam",
+        "period_id": "539"
+    },
+    {
+        "name": "vietnam",
+        "period_id": "538"
+    },
+    {
+        "name": "vietnam",
+        "period_id": "1186"
+    },
+    {
+        "name": "vietnam",
+        "period_id": "1279"
+    },
+    {
+        "name": "hong_kong",
+        "period_id": "116"
+    },
+    {
+        "name": "hong_kong",
+        "period_id": "117"
+    },
+    {
+        "name": "hong_kong",
+        "period_id": "359"
+    },
+    {
+        "name": "hong_kong",
+        "period_id": "360"
+    },
+    {
+        "name": "hong_kong",
+        "period_id": "712"
+    },
+    {
+        "name": "hong_kong",
+        "period_id": "713"
+    },
+    {
+        "name": "georgia",
+        "period_id": "159"
+    },
+    {
+        "name": "georgia",
+        "period_id": "32"
+    },
+    {
+        "name": "georgia",
+        "period_id": "64"
+    },
+    {
+        "name": "georgia",
+        "period_id": "65"
+    },
+    {
+        "name": "georgia",
+        "period_id": "1191"
+    },
+    {
+        "name": "egypt",
+        "period_id": "41"
+    },
+    {
+        "name": "egypt",
+        "period_id": "369"
+    },
+    {
+        "name": "egypt",
+        "period_id": "427"
+    },
+    {
+        "name": "egypt",
+        "period_id": "475"
+    },
+    {
+        "name": "egypt",
+        "period_id": "481"
+    },
+    {
+        "name": "egypt",
+        "period_id": "636"
+    },
+    {
+        "name": "egypt",
+        "period_id": "634"
+    },
+    {
+        "name": "egypt",
+        "period_id": "648"
+    },
+    {
+        "name": "egypt",
+        "period_id": "1084"
+    },
+    {
+        "name": "egypt",
+        "period_id": "1085"
+    },
+    {
+        "name": "israel",
+        "period_id": "66"
+    },
+    {
+        "name": "israel",
+        "period_id": "171"
+    },
+    {
+        "name": "israel",
+        "period_id": "246"
+    },
+    {
+        "name": "israel",
+        "period_id": "264"
+    },
+    {
+        "name": "india",
+        "period_id": "121"
+    },
+    {
+        "name": "india",
+        "period_id": "410"
+    },
+    {
+        "name": "indonesia",
+        "period_id": "177"
+    },
+    {
+        "name": "indonesia",
+        "period_id": "718"
+    },
+    {
+        "name": "indonesia",
+        "period_id": "719"
+    },
+    {
+        "name": "indonesia",
+        "period_id": "386"
+    },
+    {
+        "name": "jordan",
+        "period_id": "288"
+    },
+    {
+        "name": "jordan",
+        "period_id": "289"
+    },
+    {
+        "name": "iraq",
+        "period_id": "187"
+    },
+    {
+        "name": "iraq",
+        "period_id": "638"
+    },
+    {
+        "name": "iran",
+        "period_id": "189"
+    },
+    {
+        "name": "iran",
+        "period_id": "193"
+    },
+    {
+        "name": "iran",
+        "period_id": "355"
+    },
+    {
+        "name": "iran",
+        "period_id": "356"
+    },
+    {
+        "name": "iran",
+        "period_id": "693"
+    },
+    {
+        "name": "iran",
+        "period_id": "694"
+    },
+    {
+        "name": "iran",
+        "period_id": "695"
+    },
+    {
+        "name": "iran",
+        "period_id": "696"
+    },
+    {
+        "name": "iran",
+        "period_id": "860"
+    },
+    {
+        "name": "yemen",
+        "period_id": "342"
+    },
+    {
+        "name": "yemen",
+        "period_id": "558"
+    },
+    {
+        "name": "yemen",
+        "period_id": "430"
+    },
+    {
+        "name": "yemen",
+        "period_id": "725"
+    },
+    {
+        "name": "yemen",
+        "period_id": "800"
+    },
+    {
+        "name": "kazakhstan",
+        "period_id": "108"
+    },
+    {
+        "name": "kazakhstan",
+        "period_id": "32"
+    },
+    {
+        "name": "kazakhstan",
+        "period_id": "64"
+    },
+    {
+        "name": "kazakhstan",
+        "period_id": "65"
+    },
+    {
+        "name": "cambodia",
+        "period_id": "214"
+    },
+    {
+        "name": "cambodia",
+        "period_id": "216"
+    },
+    {
+        "name": "cambodia",
+        "period_id": "1028"
+    },
+    {
+        "name": "cambodia",
+        "period_id": "1029"
+    },
+    {
+        "name": "qatar",
+        "period_id": "371"
+    },
+    {
+        "name": "qatar",
+        "period_id": "643"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "307"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "118"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "206"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "353"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "541"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "542"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "543"
+    },
+    {
+        "name": "cyprus",
+        "period_id": "544"
+    },
+    {
+        "name": "kyrgyzstan",
+        "period_id": "235"
+    },
+    {
+        "name": "kyrgyzstan",
+        "period_id": "32"
+    },
+    {
+        "name": "kyrgyzstan",
+        "period_id": "64"
+    },
+    {
+        "name": "china",
+        "period_id": "51"
+    },
+    {
+        "name": "china",
+        "period_id": "50"
+    },
+    {
+        "name": "china",
+        "period_id": "630"
+    },
+    {
+        "name": "china",
+        "period_id": "627"
+    },
+    {
+        "name": "china",
+        "period_id": "629"
+    },
+    {
+        "name": "china",
+        "period_id": "626"
+    },
+    {
+        "name": "china",
+        "period_id": "628"
+    },
+    {
+        "name": "china",
+        "period_id": "967"
+    },
+    {
+        "name": "china",
+        "period_id": "966"
+    },
+    {
+        "name": "china",
+        "period_id": "775"
+    },
+    {
+        "name": "china",
+        "period_id": "816"
+    },
+    {
+        "name": "china",
+        "period_id": "817"
+    },
+    {
+        "name": "china",
+        "period_id": "776"
+    },
+    {
+        "name": "china",
+        "period_id": "820"
+    },
+    {
+        "name": "china",
+        "period_id": "939"
+    },
+    {
+        "name": "china",
+        "period_id": "943"
+    },
+    {
+        "name": "china",
+        "period_id": "1234"
+    },
+    {
+        "name": "china",
+        "period_id": "942"
+    },
+    {
+        "name": "kuwait",
+        "period_id": "184"
+    },
+    {
+        "name": "laos",
+        "period_id": "173"
+    },
+    {
+        "name": "laos",
+        "period_id": "607"
+    },
+    {
+        "name": "lebanon",
+        "period_id": "34"
+    },
+    {
+        "name": "lebanon",
+        "period_id": "285"
+    },
+    {
+        "name": "lebanon",
+        "period_id": "372"
+    },
+    {
+        "name": "macau",
+        "period_id": "217"
+    },
+    {
+        "name": "macau",
+        "period_id": "442"
+    },
+    {
+        "name": "malaysia",
+        "period_id": "153"
+    },
+    {
+        "name": "malaysia",
+        "period_id": "563"
+    },
+    {
+        "name": "malaysia",
+        "period_id": "561"
+    },
+    {
+        "name": "maldives",
+        "period_id": "407"
+    },
+    {
+        "name": "maldives",
+        "period_id": "1009"
+    },
+    {
+        "name": "mongolia",
+        "period_id": "211"
+    },
+    {
+        "name": "myanmar",
+        "period_id": "333"
+    },
+    {
+        "name": "myanmar",
+        "period_id": "674"
+    },
+    {
+        "name": "myanmar",
+        "period_id": "1161"
+    },
+    {
+        "name": "nagorno_karabakh",
+        "period_id": "458"
+    },
+    {
+        "name": "nepal",
+        "period_id": "271"
+    },
+    {
+        "name": "nepal",
+        "period_id": "970"
+    },
+    {
+        "name": "nepal",
+        "period_id": "968"
+    },
+    {
+        "name": "united_arab_emirates",
+        "period_id": "17"
+    },
+    {
+        "name": "united_arab_emirates",
+        "period_id": "643"
+    },
+    {
+        "name": "oman",
+        "period_id": "212"
+    },
+    {
+        "name": "oman",
+        "period_id": "623"
+    },
+    {
+        "name": "pakistan",
+        "period_id": "249"
+    },
+    {
+        "name": "pakistan",
+        "period_id": "416"
+    },
+    {
+        "name": "palestine",
+        "period_id": "290"
+    },
+    {
+        "name": "russia",
+        "period_id": "12"
+    },
+    {
+        "name": "russia",
+        "period_id": "27"
+    },
+    {
+        "name": "russia",
+        "period_id": "28"
+    },
+    {
+        "name": "russia",
+        "period_id": "32"
+    },
+    {
+        "name": "russia",
+        "period_id": "64"
+    },
+    {
+        "name": "russia",
+        "period_id": "65"
+    },
+    {
+        "name": "russia",
+        "period_id": "178"
+    },
+    {
+        "name": "russia",
+        "period_id": "279"
+    },
+    {
+        "name": "russia",
+        "period_id": "280"
+    },
+    {
+        "name": "russia",
+        "period_id": "507"
+    },
+    {
+        "name": "russia",
+        "period_id": "508"
+    },
+    {
+        "name": "russia",
+        "period_id": "509"
+    },
+    {
+        "name": "russia",
+        "period_id": "1200"
+    },
+    {
+        "name": "russia",
+        "period_id": "738"
+    },
+    {
+        "name": "russia",
+        "period_id": "615"
+    },
+    {
+        "name": "russia",
+        "period_id": "616"
+    },
+    {
+        "name": "russia",
+        "period_id": "617"
+    },
+    {
+        "name": "russia",
+        "period_id": "729"
+    },
+    {
+        "name": "russia",
+        "period_id": "728"
+    },
+    {
+        "name": "russia",
+        "period_id": "730"
+    },
+    {
+        "name": "russia",
+        "period_id": "731"
+    },
+    {
+        "name": "russia",
+        "period_id": "732"
+    },
+    {
+        "name": "russia",
+        "period_id": "1162"
+    },
+    {
+        "name": "saudi_arabia",
+        "period_id": "293"
+    },
+    {
+        "name": "saudi_arabia",
+        "period_id": "682"
+    },
+    {
+        "name": "north_korea",
+        "period_id": "272"
+    },
+    {
+        "name": "singapore",
+        "period_id": "150"
+    },
+    {
+        "name": "syria",
+        "period_id": "190"
+    },
+    {
+        "name": "syria",
+        "period_id": "370"
+    },
+    {
+        "name": "syria",
+        "period_id": "576"
+    },
+    {
+        "name": "syria",
+        "period_id": "575"
+    },
+    {
+        "name": "tajikistan",
+        "period_id": "161"
+    },
+    {
+        "name": "tajikistan",
+        "period_id": "32"
+    },
+    {
+        "name": "tajikistan",
+        "period_id": "64"
+    },
+    {
+        "name": "thailand",
+        "period_id": "806"
+    },
+    {
+        "name": "thailand",
+        "period_id": "53"
+    },
+    {
+        "name": "thailand",
+        "period_id": "334"
+    },
+    {
+        "name": "thailand",
+        "period_id": "335"
+    },
+    {
+        "name": "thailand",
+        "period_id": "461"
+    },
+    {
+        "name": "thailand",
+        "period_id": "1040"
+    },
+    {
+        "name": "thailand",
+        "period_id": "1002"
+    },
+    {
+        "name": "taiwan",
+        "period_id": "169"
+    },
+    {
+        "name": "turkmenistan",
+        "period_id": "234"
+    },
+    {
+        "name": "turkmenistan",
+        "period_id": "253"
+    },
+    {
+        "name": "turkmenistan",
+        "period_id": "32"
+    },
+    {
+        "name": "turkmenistan",
+        "period_id": "64"
+    },
+    {
+        "name": "turkey",
+        "period_id": "55"
+    },
+    {
+        "name": "turkey",
+        "period_id": "97"
+    },
+    {
+        "name": "turkey",
+        "period_id": "127"
+    },
+    {
+        "name": "turkey",
+        "period_id": "141"
+    },
+    {
+        "name": "turkey",
+        "period_id": "341"
+    },
+    {
+        "name": "turkey",
+        "period_id": "498"
+    },
+    {
+        "name": "turkey",
+        "period_id": "499"
+    },
+    {
+        "name": "turkey",
+        "period_id": "500"
+    },
+    {
+        "name": "turkey",
+        "period_id": "501"
+    },
+    {
+        "name": "turkey",
+        "period_id": "502"
+    },
+    {
+        "name": "turkey",
+        "period_id": "933"
+    },
+    {
+        "name": "uzbekistan",
+        "period_id": "160"
+    },
+    {
+        "name": "uzbekistan",
+        "period_id": "32"
+    },
+    {
+        "name": "uzbekistan",
+        "period_id": "64"
+    },
+    {
+        "name": "philippines",
+        "period_id": "143"
+    },
+    {
+        "name": "philippines",
+        "period_id": "233"
+    },
+    {
+        "name": "philippines",
+        "period_id": "505"
+    },
+    {
+        "name": "philippines",
+        "period_id": "1157"
+    },
+    {
+        "name": "philippines",
+        "period_id": "506"
+    },
+    {
+        "name": "philippines",
+        "period_id": "892"
+    },
+    {
+        "name": "sri_lanka",
+        "period_id": "148"
+    },
+    {
+        "name": "sri_lanka",
+        "period_id": "349"
+    },
+    {
+        "name": "sri_lanka",
+        "period_id": "351"
+    },
+    {
+        "name": "sri_lanka",
+        "period_id": "517"
+    },
+    {
+        "name": "sri_lanka",
+        "period_id": "518"
+    },
+    {
+        "name": "sri_lanka",
+        "period_id": "519"
+    },
+    {
+        "name": "south_korea",
+        "period_id": "123"
+    },
+    {
+        "name": "south_korea",
+        "period_id": "182"
+    },
+    {
+        "name": "south_korea",
+        "period_id": "606"
+    },
+    {
+        "name": "japan",
+        "period_id": "1064"
+    },
+    {
+        "name": "japan",
+        "period_id": "15"
+    },
+    {
+        "name": "japan",
+        "period_id": "16"
+    },
+    {
+        "name": "japan",
+        "period_id": "221"
+    },
+    {
+        "name": "japan",
+        "period_id": "483"
+    },
+    {
+        "name": "japan",
+        "period_id": "484"
+    },
+    {
+        "name": "japan",
+        "period_id": "1108"
+    },
+    {
+        "name": "algeria",
+        "period_id": "202"
+    },
+    {
+        "name": "algeria",
+        "period_id": "579"
+    },
+    {
+        "name": "angola",
+        "period_id": "435"
+    },
+    {
+        "name": "angola",
+        "period_id": "434"
+    },
+    {
+        "name": "angola",
+        "period_id": "491"
+    },
+    {
+        "name": "angola",
+        "period_id": "1039"
+    },
+    {
+        "name": "angola",
+        "period_id": "1038"
+    },
+    {
+        "name": "benin",
+        "period_id": "327"
+    },
+    {
+        "name": "benin",
+        "period_id": "1178"
+    },
+    {
+        "name": "botswana",
+        "period_id": "294"
+    },
+    {
+        "name": "botswana",
+        "period_id": "886"
+    },
+    {
+        "name": "biot",
+        "period_id": "716"
+    },
+    {
+        "name": "burkina_faso",
+        "period_id": "388"
+    },
+    {
+        "name": "burundi",
+        "period_id": "443"
+    },
+    {
+        "name": "burundi",
+        "period_id": "670"
+    },
+    {
+        "name": "gabon",
+        "period_id": "382"
+    },
+    {
+        "name": "gambia",
+        "period_id": "455"
+    },
+    {
+        "name": "gambia",
+        "period_id": "456"
+    },
+    {
+        "name": "ghana",
+        "period_id": "393"
+    },
+    {
+        "name": "ghana",
+        "period_id": "612"
+    },
+    {
+        "name": "guinea",
+        "period_id": "525"
+    },
+    {
+        "name": "guinea",
+        "period_id": "526"
+    },
+    {
+        "name": "guinea",
+        "period_id": "524"
+    },
+    {
+        "name": "guinea_bissau",
+        "period_id": "328"
+    },
+    {
+        "name": "guinea_bissau",
+        "period_id": "528"
+    },
+    {
+        "name": "guinea_bissau",
+        "period_id": "529"
+    },
+    {
+        "name": "djibouti",
+        "period_id": "527"
+    },
+    {
+        "name": "egypt",
+        "period_id": "41"
+    },
+    {
+        "name": "egypt",
+        "period_id": "369"
+    },
+    {
+        "name": "egypt",
+        "period_id": "427"
+    },
+    {
+        "name": "egypt",
+        "period_id": "475"
+    },
+    {
+        "name": "egypt",
+        "period_id": "481"
+    },
+    {
+        "name": "egypt",
+        "period_id": "636"
+    },
+    {
+        "name": "egypt",
+        "period_id": "634"
+    },
+    {
+        "name": "egypt",
+        "period_id": "648"
+    },
+    {
+        "name": "egypt",
+        "period_id": "1084"
+    },
+    {
+        "name": "egypt",
+        "period_id": "1085"
+    },
+    {
+        "name": "zambia",
+        "period_id": "408"
+    },
+    {
+        "name": "zambia",
+        "period_id": "409"
+    },
+    {
+        "name": "zambia",
+        "period_id": "413"
+    },
+    {
+        "name": "western_africa",
+        "period_id": "262"
+    },
+    {
+        "name": "western_africa",
+        "period_id": "640"
+    },
+    {
+        "name": "western_sahara",
+        "period_id": "454"
+    },
+    {
+        "name": "zimbabwe",
+        "period_id": "635"
+    },
+    {
+        "name": "zimbabwe",
+        "period_id": "346"
+    },
+    {
+        "name": "cape_verde",
+        "period_id": "363"
+    },
+    {
+        "name": "cape_verde",
+        "period_id": "570"
+    },
+    {
+        "name": "cameroon",
+        "period_id": "375"
+    },
+    {
+        "name": "cameroon",
+        "period_id": "641"
+    },
+    {
+        "name": "cameroon",
+        "period_id": "642"
+    },
+    {
+        "name": "kenya",
+        "period_id": "166"
+    },
+    {
+        "name": "comoros",
+        "period_id": "602"
+    },
+    {
+        "name": "comoros",
+        "period_id": "603"
+    },
+    {
+        "name": "comoros",
+        "period_id": "919"
+    },
+    {
+        "name": "congo_democratic_republic",
+        "period_id": "414"
+    },
+    {
+        "name": "congo_democratic_republic",
+        "period_id": "551"
+    },
+    {
+        "name": "congo_democratic_republic",
+        "period_id": "552"
+    },
+    {
+        "name": "congo_democratic_republic",
+        "period_id": "553"
+    },
+    {
+        "name": "congo_democratic_republic",
+        "period_id": "521"
+    },
+    {
+        "name": "congo_democratic_republic",
+        "period_id": "679"
+    },
+    {
+        "name": "cote_d_ivoire",
+        "period_id": "389"
+    },
+    {
+        "name": "lesotho",
+        "period_id": "559"
+    },
+    {
+        "name": "liberia",
+        "period_id": "497"
+    },
+    {
+        "name": "liberia",
+        "period_id": "894"
+    },
+    {
+        "name": "libya",
+        "period_id": "248"
+    },
+    {
+        "name": "libya",
+        "period_id": "583"
+    },
+    {
+        "name": "mauritius",
+        "period_id": "183"
+    },
+    {
+        "name": "mauritius",
+        "period_id": "438"
+    },
+    {
+        "name": "mauritius",
+        "period_id": "439"
+    },
+    {
+        "name": "mauritius",
+        "period_id": "440"
+    },
+    {
+        "name": "mauritius",
+        "period_id": "441"
+    },
+    {
+        "name": "mauritania",
+        "period_id": "462"
+    },
+    {
+        "name": "mauritania",
+        "period_id": "262"
+    },
+    {
+        "name": "madagascar",
+        "period_id": "395"
+    },
+    {
+        "name": "madagascar",
+        "period_id": "578"
+    },
+    {
+        "name": "malawi",
+        "period_id": "489"
+    },
+    {
+        "name": "malawi",
+        "period_id": "490"
+    },
+    {
+        "name": "mali",
+        "period_id": "390"
+    },
+    {
+        "name": "mali",
+        "period_id": "645"
+    },
+    {
+        "name": "morocco",
+        "period_id": "186"
+    },
+    {
+        "name": "morocco",
+        "period_id": "428"
+    },
+    {
+        "name": "morocco",
+        "period_id": "692"
+    },
+    {
+        "name": "morocco",
+        "period_id": "724"
+    },
+    {
+        "name": "morocco",
+        "period_id": "961"
+    },
+    {
+        "name": "mozambique",
+        "period_id": "364"
+    },
+    {
+        "name": "mozambique",
+        "period_id": "365"
+    },
+    {
+        "name": "mozambique",
+        "period_id": "366"
+    },
+    {
+        "name": "mozambique",
+        "period_id": "492"
+    },
+    {
+        "name": "mozambique",
+        "period_id": "1094"
+    },
+    {
+        "name": "namibia",
+        "period_id": "345"
+    },
+    {
+        "name": "niger",
+        "period_id": "385"
+    },
+    {
+        "name": "nigeria",
+        "period_id": "208"
+    },
+    {
+        "name": "nigeria",
+        "period_id": "608"
+    },
+    {
+        "name": "saint_helena_ascension",
+        "period_id": "599"
+    },
+    {
+        "name": "ascension_island",
+        "period_id": "619"
+    },
+    {
+        "name": "saint_helena",
+        "period_id": "620"
+    },
+    {
+        "name": "saint_helena",
+        "period_id": "1021"
+    },
+    {
+        "name": "west_congo",
+        "period_id": "383"
+    },
+    {
+        "name": "reunion",
+        "period_id": "577"
+    },
+    {
+        "name": "reunion",
+        "period_id": "1086"
+    },
+    {
+        "name": "reunion",
+        "period_id": "1090"
+    },
+    {
+        "name": "rwanda",
+        "period_id": "459"
+    },
+    {
+        "name": "rwanda",
+        "period_id": "670"
+    },
+    {
+        "name": "sao_tome_principe",
+        "period_id": "532"
+    },
+    {
+        "name": "sao_tome_principe",
+        "period_id": "533"
+    },
+    {
+        "name": "seychelles",
+        "period_id": "303"
+    },
+    {
+        "name": "seychelles",
+        "period_id": "403"
+    },
+    {
+        "name": "seychelles",
+        "period_id": "404"
+    },
+    {
+        "name": "senegal",
+        "period_id": "384"
+    },
+    {
+        "name": "somalia",
+        "period_id": "488"
+    },
+    {
+        "name": "somalia",
+        "period_id": "487"
+    },
+    {
+        "name": "somaliland",
+        "period_id": "531"
+    },
+    {
+        "name": "sudan",
+        "period_id": "450"
+    },
+    {
+        "name": "sudan",
+        "period_id": "452"
+    },
+    {
+        "name": "sudan",
+        "period_id": "451"
+    },
+    {
+        "name": "sierra_leone",
+        "period_id": "516"
+    },
+    {
+        "name": "sierra_leone",
+        "period_id": "514"
+    },
+    {
+        "name": "tanzania",
+        "period_id": "304"
+    },
+    {
+        "name": "togo",
+        "period_id": "329"
+    },
+    {
+        "name": "togo",
+        "period_id": "683"
+    },
+    {
+        "name": "togo",
+        "period_id": "684"
+    },
+    {
+        "name": "tristan_da_cunha",
+        "period_id": "618"
+    },
+    {
+        "name": "tunisia",
+        "period_id": "106"
+    },
+    {
+        "name": "tunisia",
+        "period_id": "530"
+    },
+    {
+        "name": "tunisia",
+        "period_id": "493"
+    },
+    {
+        "name": "tunisia",
+        "period_id": "780"
+    },
+    {
+        "name": "tunisia",
+        "period_id": "781"
+    },
+    {
+        "name": "tunisia",
+        "period_id": "785"
+    },
+    {
+        "name": "uganda",
+        "period_id": "243"
+    },
+    {
+        "name": "uganda",
+        "period_id": "604"
+    },
+    {
+        "name": "central_african_republic",
+        "period_id": "377"
+    },
+    {
+        "name": "central_africa",
+        "period_id": "352"
+    },
+    {
+        "name": "central_africa",
+        "period_id": "591"
+    },
+    {
+        "name": "chad",
+        "period_id": "376"
+    },
+    {
+        "name": "equatorial_guinea",
+        "period_id": "378"
+    },
+    {
+        "name": "equatorial_guinea",
+        "period_id": "649"
+    },
+    {
+        "name": "equatorial_guinea",
+        "period_id": "650"
+    },
+    {
+        "name": "eritrea",
+        "period_id": "494"
+    },
+    {
+        "name": "eritrea",
+        "period_id": "495"
+    },
+    {
+        "name": "swaziland",
+        "period_id": "448"
+    },
+    {
+        "name": "swaziland",
+        "period_id": "447"
+    },
+    {
+        "name": "ethiopia",
+        "period_id": "347"
+    },
+    {
+        "name": "ethiopia",
+        "period_id": "595"
+    },
+    {
+        "name": "ethiopia",
+        "period_id": "596"
+    },
+    {
+        "name": "ethiopia",
+        "period_id": "597"
+    },
+    {
+        "name": "south_africa",
+        "period_id": "114"
+    },
+    {
+        "name": "south_africa",
+        "period_id": "396"
+    },
+    {
+        "name": "south_africa",
+        "period_id": "401"
+    },
+    {
+        "name": "south_africa",
+        "period_id": "402"
+    },
+    {
+        "name": "south_sudan",
+        "period_id": "605"
+    },
+    {
+        "name": "australia",
+        "period_id": "104"
+    },
+    {
+        "name": "australia",
+        "period_id": "236"
+    },
+    {
+        "name": "australia",
+        "period_id": "237"
+    },
+    {
+        "name": "australia",
+        "period_id": "354"
+    },
+    {
+        "name": "australia",
+        "period_id": "644"
+    },
+    {
+        "name": "australia",
+        "period_id": "998"
+    },
+    {
+        "name": "american_samoa",
+        "period_id": "863"
+    },
+    {
+        "name": "vanuatu",
+        "period_id": "496"
+    },
+    {
+        "name": "kiribati",
+        "period_id": "520"
+    },
+    {
+        "name": "marshall_islands",
+        "period_id": "666"
+    },
+    {
+        "name": "nauru",
+        "period_id": "624"
+    },
+    {
+        "name": "niue",
+        "period_id": "480"
+    },
+    {
+        "name": "new_zealand",
+        "period_id": "152"
+    },
+    {
+        "name": "new_zealand",
+        "period_id": "238"
+    },
+    {
+        "name": "new_zealand",
+        "period_id": "379"
+    },
+    {
+        "name": "new_zealand",
+        "period_id": "380"
+    },
+    {
+        "name": "new_caledonia",
+        "period_id": "361"
+    },
+    {
+        "name": "cook_islands",
+        "period_id": "397"
+    },
+    {
+        "name": "pitcairn_islands",
+        "period_id": "673"
+    },
+    {
+        "name": "palau",
+        "period_id": "667"
+    },
+    {
+        "name": "papua_new_guinea",
+        "period_id": "284"
+    },
+    {
+        "name": "papua_new_guinea",
+        "period_id": "689"
+    },
+    {
+        "name": "samoa",
+        "period_id": "405"
+    },
+    {
+        "name": "samoa",
+        "period_id": "406"
+    },
+    {
+        "name": "solomon_islands",
+        "period_id": "476"
+    },
+    {
+        "name": "tokelau",
+        "period_id": "723"
+    },
+    {
+        "name": "tonga",
+        "period_id": "545"
+    },
+    {
+        "name": "tuvalu",
+        "period_id": "560"
+    },
+    {
+        "name": "fiji",
+        "period_id": "185"
+    },
+    {
+        "name": "fiji",
+        "period_id": "573"
+    },
+    {
+        "name": "fiji",
+        "period_id": "572"
+    },
+    {
+        "name": "fiji",
+        "period_id": "571"
+    },
+    {
+        "name": "french_polinesia",
+        "period_id": "357"
+    },
+    {
+        "name": "french_polinesia",
+        "period_id": "735"
+    },
+    {
+        "name": "hutt_river",
+        "period_id": "1113"
+    },
+    {
+        "name": "austrian_netherlands",
+        "period_id": "901"
+    },
+    {
+        "name": "austrian_netherlands",
+        "period_id": "882"
+    },
+    {
+        "name": "ajman",
+        "period_id": "982"
+    },
+    {
+        "name": "anhalt_bernburg",
+        "period_id": "902"
+    },
+    {
+        "name": "england",
+        "period_id": "847"
+    },
+    {
+        "name": "england",
+        "period_id": "848"
+    },
+    {
+        "name": "england",
+        "period_id": "934"
+    },
+    {
+        "name": "england",
+        "period_id": "940"
+    },
+    {
+        "name": "argentine_provinces",
+        "period_id": "1047"
+    },
+    {
+        "name": "argentine_provinces",
+        "period_id": "1048"
+    },
+    {
+        "name": "argentine_provinces",
+        "period_id": "898"
+    },
+    {
+        "name": "argentine_provinces",
+        "period_id": "1049"
+    },
+    {
+        "name": "argentine_provinces",
+        "period_id": "1163"
+    },
+    {
+        "name": "armavir",
+        "period_id": "1150"
+    },
+    {
+        "name": "oudh",
+        "period_id": "1213"
+    },
+    {
+        "name": "oudh",
+        "period_id": "1214"
+    },
+    {
+        "name": "bavaria",
+        "period_id": "437"
+    },
+    {
+        "name": "bavaria",
+        "period_id": "812"
+    },
+    {
+        "name": "bavaria",
+        "period_id": "937"
+    },
+    {
+        "name": "bavaria",
+        "period_id": "938"
+    },
+    {
+        "name": "baden",
+        "period_id": "464"
+    },
+    {
+        "name": "baden",
+        "period_id": "853"
+    },
+    {
+        "name": "baroda",
+        "period_id": "1051"
+    },
+    {
+        "name": "bahawalpur",
+        "period_id": "1071"
+    },
+    {
+        "name": "belgian_congo",
+        "period_id": "669"
+    },
+    {
+        "name": "belgian_congo",
+        "period_id": "521"
+    },
+    {
+        "name": "belgian_congo",
+        "period_id": "679"
+    },
+    {
+        "name": "berg",
+        "period_id": "1220"
+    },
+    {
+        "name": "berg",
+        "period_id": "1221"
+    },
+    {
+        "name": "biafra",
+        "period_id": "770"
+    },
+    {
+        "name": "bikaner",
+        "period_id": "1111"
+    },
+    {
+        "name": "bohemia",
+        "period_id": "1061"
+    },
+    {
+        "name": "bohemia",
+        "period_id": "1099"
+    },
+    {
+        "name": "bohemia",
+        "period_id": "1100"
+    },
+    {
+        "name": "bohemia_moravia",
+        "period_id": "213"
+    },
+    {
+        "name": "brandenburg_prussia",
+        "period_id": "1276"
+    },
+    {
+        "name": "brandenburg_prussia",
+        "period_id": "1278"
+    },
+    {
+        "name": "brandenburg_prussia",
+        "period_id": "1277"
+    },
+    {
+        "name": "brandenburg_prussia",
+        "period_id": "1271"
+    },
+    {
+        "name": "brunswick",
+        "period_id": "654"
+    },
+    {
+        "name": "brunswick",
+        "period_id": "905"
+    },
+    {
+        "name": "brunswick_wolfenbuttel",
+        "period_id": "1145"
+    },
+    {
+        "name": "brunswick_wolfenbuttel",
+        "period_id": "1153"
+    },
+    {
+        "name": "brunswick_wolfenbuttel",
+        "period_id": "1146"
+    },
+    {
+        "name": "brunswick_wolfenbuttel",
+        "period_id": "1154"
+    },
+    {
+        "name": "brunswick_luneburg",
+        "period_id": "1082"
+    },
+    {
+        "name": "brunswick_luneburg",
+        "period_id": "1087"
+    },
+    {
+        "name": "brunswick_luneburg",
+        "period_id": "1083"
+    },
+    {
+        "name": "brunswick_luneburg",
+        "period_id": "1089"
+    },
+    {
+        "name": "brunswick_luneburg",
+        "period_id": "1088"
+    },
+    {
+        "name": "bremen",
+        "period_id": "655"
+    },
+    {
+        "name": "bremen",
+        "period_id": "1194"
+    },
+    {
+        "name": "bremen",
+        "period_id": "1195"
+    },
+    {
+        "name": "british_west_indies",
+        "period_id": "1037"
+    },
+    {
+        "name": "british_east_africa",
+        "period_id": "567"
+    },
+    {
+        "name": "british_east_africa",
+        "period_id": "566"
+    },
+    {
+        "name": "british_east_africa",
+        "period_id": "565"
+    },
+    {
+        "name": "british_guiana",
+        "period_id": "736"
+    },
+    {
+        "name": "british_guiana",
+        "period_id": "737"
+    },
+    {
+        "name": "british_west_africa",
+        "period_id": "621"
+    },
+    {
+        "name": "british_east_indies",
+        "period_id": "1167"
+    },
+    {
+        "name": "british_east_indies",
+        "period_id": "1104"
+    },
+    {
+        "name": "british_east_indies",
+        "period_id": "1103"
+    },
+    {
+        "name": "british_east_indies",
+        "period_id": "1165"
+    },
+    {
+        "name": "british_east_indies",
+        "period_id": "1166"
+    },
+    {
+        "name": "british_east_indies",
+        "period_id": "1101"
+    },
+    {
+        "name": "british_east_indies",
+        "period_id": "1102"
+    },
+    {
+        "name": "british_honduras",
+        "period_id": "590"
+    },
+    {
+        "name": "burgau",
+        "period_id": "1222"
+    },
+    {
+        "name": "bukhara",
+        "period_id": "1290"
+    },
+    {
+        "name": "bhopal",
+        "period_id": "1212"
+    },
+    {
+        "name": "waldeck",
+        "period_id": "665"
+    },
+    {
+        "name": "waldeck",
+        "period_id": "1045"
+    },
+    {
+        "name": "waldeck",
+        "period_id": "1046"
+    },
+    {
+        "name": "venice",
+        "period_id": "813"
+    },
+    {
+        "name": "venice",
+        "period_id": "1138"
+    },
+    {
+        "name": "venice",
+        "period_id": "1140"
+    },
+    {
+        "name": "venice",
+        "period_id": "1139"
+    },
+    {
+        "name": "venice",
+        "period_id": "1141"
+    },
+    {
+        "name": "westphalia",
+        "period_id": "896"
+    },
+    {
+        "name": "westphalia",
+        "period_id": "1133"
+    },
+    {
+        "name": "wurttemberg",
+        "period_id": "467"
+    },
+    {
+        "name": "wurttemberg",
+        "period_id": "866"
+    },
+    {
+        "name": "wurttemberg",
+        "period_id": "1237"
+    },
+    {
+        "name": "wurttemberg",
+        "period_id": "1238"
+    },
+    {
+        "name": "wurzburg",
+        "period_id": "1242"
+    },
+    {
+        "name": "hawaii",
+        "period_id": "952"
+    },
+    {
+        "name": "galicia_lodomeria",
+        "period_id": "1270"
+    },
+    {
+        "name": "hamburg",
+        "period_id": "468"
+    },
+    {
+        "name": "hamburg",
+        "period_id": "903"
+    },
+    {
+        "name": "hamburg",
+        "period_id": "904"
+    },
+    {
+        "name": "hannover",
+        "period_id": "1063"
+    },
+    {
+        "name": "hannover",
+        "period_id": "884"
+    },
+    {
+        "name": "hannover",
+        "period_id": "885"
+    },
+    {
+        "name": "gwalior",
+        "period_id": "801"
+    },
+    {
+        "name": "genoa",
+        "period_id": "1125"
+    },
+    {
+        "name": "genoa",
+        "period_id": "1124"
+    },
+    {
+        "name": "genoa",
+        "period_id": "1126"
+    },
+    {
+        "name": "genoa",
+        "period_id": "1132"
+    },
+    {
+        "name": "german_democratic_republic",
+        "period_id": "44"
+    },
+    {
+        "name": "third_reich",
+        "period_id": "96"
+    },
+    {
+        "name": "third_reich",
+        "period_id": "95"
+    },
+    {
+        "name": "german_east_africa",
+        "period_id": "688"
+    },
+    {
+        "name": "german_east_africa",
+        "period_id": "687"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "465"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "291"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "466"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "437"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "464"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "654"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "655"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "665"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "467"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "468"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "653"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "469"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "657"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "656"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "658"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "436"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "661"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "660"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "662"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "473"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "663"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "470"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "457"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "659"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "472"
+    },
+    {
+        "name": "german_empire",
+        "period_id": "664"
+    },
+    {
+        "name": "german_new_guinea",
+        "period_id": "734"
+    },
+    {
+        "name": "hessen_homburg",
+        "period_id": "1268"
+    },
+    {
+        "name": "hessen_darmstadt",
+        "period_id": "465"
+    },
+    {
+        "name": "hessen_darmstadt",
+        "period_id": "994"
+    },
+    {
+        "name": "hessen_darmstadt",
+        "period_id": "999"
+    },
+    {
+        "name": "hesse_kassel",
+        "period_id": "899"
+    },
+    {
+        "name": "netherlands_east_indies",
+        "period_id": "568"
+    },
+    {
+        "name": "netherlands_east_indies",
+        "period_id": "821"
+    },
+    {
+        "name": "netherlands_east_indies",
+        "period_id": "950"
+    },
+    {
+        "name": "netherlands_east_indies",
+        "period_id": "979"
+    },
+    {
+        "name": "dutch_republic",
+        "period_id": "949"
+    },
+    {
+        "name": "dutch_republic",
+        "period_id": "948"
+    },
+    {
+        "name": "dutch_republic",
+        "period_id": "954"
+    },
+    {
+        "name": "dutch_republic",
+        "period_id": "953"
+    },
+    {
+        "name": "dutch_republic",
+        "period_id": "959"
+    },
+    {
+        "name": "dutch_republic",
+        "period_id": "960"
+    },
+    {
+        "name": "dutch_republic",
+        "period_id": "957"
+    },
+    {
+        "name": "dutch_republic",
+        "period_id": "958"
+    },
+    {
+        "name": "gorizia_gradisca",
+        "period_id": "861"
+    },
+    {
+        "name": "gubbio",
+        "period_id": "1236"
+    },
+    {
+        "name": "danzig",
+        "period_id": "295"
+    },
+    {
+        "name": "danzig",
+        "period_id": "1000"
+    },
+    {
+        "name": "danzig",
+        "period_id": "1284"
+    },
+    {
+        "name": "darfur",
+        "period_id": "1293"
+    },
+    {
+        "name": "danish_west_indies",
+        "period_id": "906"
+    },
+    {
+        "name": "two_sicilies",
+        "period_id": "862"
+    },
+    {
+        "name": "demerara_essequibo",
+        "period_id": "891"
+    },
+    {
+        "name": "jaipur",
+        "period_id": "1012"
+    },
+    {
+        "name": "jaora",
+        "period_id": "1169"
+    },
+    {
+        "name": "jodhpur",
+        "period_id": "1093"
+    },
+    {
+        "name": "jodhpur",
+        "period_id": "1112"
+    },
+    {
+        "name": "junagadh",
+        "period_id": "1091"
+    },
+    {
+        "name": "zaire",
+        "period_id": "551"
+    },
+    {
+        "name": "salzburg",
+        "period_id": "1152"
+    },
+    {
+        "name": "salzburg",
+        "period_id": "1151"
+    },
+    {
+        "name": "zanzibar",
+        "period_id": "726"
+    },
+    {
+        "name": "zanzibar",
+        "period_id": "727"
+    },
+    {
+        "name": "mughal_empire",
+        "period_id": "1254"
+    },
+    {
+        "name": "mughal_empire",
+        "period_id": "1253"
+    },
+    {
+        "name": "mughal_empire",
+        "period_id": "1252"
+    },
+    {
+        "name": "mughal_empire",
+        "period_id": "1246"
+    },
+    {
+        "name": "mughal_empire",
+        "period_id": "1239"
+    },
+    {
+        "name": "mughal_empire",
+        "period_id": "1251"
+    },
+    {
+        "name": "indore",
+        "period_id": "1056"
+    },
+    {
+        "name": "british_india",
+        "period_id": "418"
+    },
+    {
+        "name": "british_india",
+        "period_id": "419"
+    },
+    {
+        "name": "british_india",
+        "period_id": "420"
+    },
+    {
+        "name": "british_india",
+        "period_id": "482"
+    },
+    {
+        "name": "british_india",
+        "period_id": "668"
+    },
+    {
+        "name": "british_india",
+        "period_id": "869"
+    },
+    {
+        "name": "british_india",
+        "period_id": "871"
+    },
+    {
+        "name": "british_india",
+        "period_id": "870"
+    },
+    {
+        "name": "british_india",
+        "period_id": "1223"
+    },
+    {
+        "name": "portuguese_india",
+        "period_id": "540"
+    },
+    {
+        "name": "portuguese_india",
+        "period_id": "554"
+    },
+    {
+        "name": "ionian_islands",
+        "period_id": "804"
+    },
+    {
+        "name": "span_civil_war",
+        "period_id": "956"
+    },
+    {
+        "name": "span_civil_war",
+        "period_id": "977"
+    },
+    {
+        "name": "span_civil_war",
+        "period_id": "702"
+    },
+    {
+        "name": "span_civil_war",
+        "period_id": "705"
+    },
+    {
+        "name": "span_civil_war",
+        "period_id": "703"
+    },
+    {
+        "name": "span_civil_war",
+        "period_id": "704"
+    },
+    {
+        "name": "span_civil_war",
+        "period_id": "701"
+    },
+    {
+        "name": "spanish_netherlands",
+        "period_id": "1227"
+    },
+    {
+        "name": "spanish_netherlands",
+        "period_id": "1228"
+    },
+    {
+        "name": "spanish_netherlands",
+        "period_id": "1231"
+    },
+    {
+        "name": "spanish_netherlands",
+        "period_id": "1229"
+    },
+    {
+        "name": "spanish_netherlands",
+        "period_id": "1230"
+    },
+    {
+        "name": "spainish_provinces",
+        "period_id": "897"
+    },
+    {
+        "name": "spainish_provinces",
+        "period_id": "900"
+    },
+    {
+        "name": "italian_eritrea",
+        "period_id": "963"
+    },
+    {
+        "name": "italian_somaliland",
+        "period_id": "691"
+    },
+    {
+        "name": "italian_somaliland",
+        "period_id": "690"
+    },
+    {
+        "name": "canadian_provinces",
+        "period_id": "831"
+    },
+    {
+        "name": "canadian_provinces",
+        "period_id": "830"
+    },
+    {
+        "name": "canadian_provinces",
+        "period_id": "829"
+    },
+    {
+        "name": "katanga",
+        "period_id": "706"
+    },
+    {
+        "name": "qatar_dubai",
+        "period_id": "643"
+    },
+    {
+        "name": "kutch",
+        "period_id": "926"
+    },
+    {
+        "name": "kutch",
+        "period_id": "1255"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "914"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "1075"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "1174"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "916"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "1171"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "980"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "912"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "913"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "1172"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "915"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "911"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "917"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "1131"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "921"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "907"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "908"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "1173"
+    },
+    {
+        "name": "china_empire",
+        "period_id": "1130"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "1118"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "1117"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "967"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "966"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "775"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "816"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "817"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "776"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "820"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "939"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "943"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "1025"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "1234"
+    },
+    {
+        "name": "china_republic",
+        "period_id": "942"
+    },
+    {
+        "name": "japanese_china",
+        "period_id": "630"
+    },
+    {
+        "name": "japanese_china",
+        "period_id": "627"
+    },
+    {
+        "name": "japanese_china",
+        "period_id": "629"
+    },
+    {
+        "name": "japanese_china",
+        "period_id": "626"
+    },
+    {
+        "name": "japanese_china",
+        "period_id": "628"
+    },
+    {
+        "name": "korea",
+        "period_id": "1004"
+    },
+    {
+        "name": "korea",
+        "period_id": "1003"
+    },
+    {
+        "name": "korea",
+        "period_id": "1005"
+    },
+    {
+        "name": "korea",
+        "period_id": "1006"
+    },
+    {
+        "name": "korea",
+        "period_id": "1007"
+    },
+    {
+        "name": "korea",
+        "period_id": "1243"
+    },
+    {
+        "name": "korea",
+        "period_id": "1286"
+    },
+    {
+        "name": "korea",
+        "period_id": "1289"
+    },
+    {
+        "name": "korea",
+        "period_id": "1287"
+    },
+    {
+        "name": "krakow",
+        "period_id": "771"
+    },
+    {
+        "name": "crete",
+        "period_id": "631"
+    },
+    {
+        "name": "palatinate",
+        "period_id": "1122"
+    },
+    {
+        "name": "palatinate",
+        "period_id": "1127"
+    },
+    {
+        "name": "lundy",
+        "period_id": "1192"
+    },
+    {
+        "name": "livonia",
+        "period_id": "1265"
+    },
+    {
+        "name": "livonia",
+        "period_id": "1266"
+    },
+    {
+        "name": "livonia",
+        "period_id": "1267"
+    },
+    {
+        "name": "lippe",
+        "period_id": "653"
+    },
+    {
+        "name": "lippe",
+        "period_id": "889"
+    },
+    {
+        "name": "lombardy_venetia",
+        "period_id": "1033"
+    },
+    {
+        "name": "lombardy_venetia",
+        "period_id": "772"
+    },
+    {
+        "name": "lucca",
+        "period_id": "1036"
+    },
+    {
+        "name": "lucca",
+        "period_id": "1034"
+    },
+    {
+        "name": "lucca",
+        "period_id": "1035"
+    },
+    {
+        "name": "liege",
+        "period_id": "1159"
+    },
+    {
+        "name": "lubeck",
+        "period_id": "469"
+    },
+    {
+        "name": "lubeck",
+        "period_id": "1204"
+    },
+    {
+        "name": "lubeck",
+        "period_id": "1205"
+    },
+    {
+        "name": "mainz",
+        "period_id": "1233"
+    },
+    {
+        "name": "mainz",
+        "period_id": "1073"
+    },
+    {
+        "name": "malaya",
+        "period_id": "561"
+    },
+    {
+        "name": "malaya_british_borneo",
+        "period_id": "563"
+    },
+    {
+        "name": "majorca",
+        "period_id": "1144"
+    },
+    {
+        "name": "mantua",
+        "period_id": "1225"
+    },
+    {
+        "name": "mewar",
+        "period_id": "1058"
+    },
+    {
+        "name": "mecklenburg_strelitz",
+        "period_id": "657"
+    },
+    {
+        "name": "mecklenburg_strelitz",
+        "period_id": "992"
+    },
+    {
+        "name": "mecklenburg_strelitz",
+        "period_id": "993"
+    },
+    {
+        "name": "mecklenburg_schwerin",
+        "period_id": "656"
+    },
+    {
+        "name": "mecklenburg_schwerin",
+        "period_id": "975"
+    },
+    {
+        "name": "milan",
+        "period_id": "936"
+    },
+    {
+        "name": "milan",
+        "period_id": "935"
+    },
+    {
+        "name": "moldavia_and_wallachia",
+        "period_id": "1068"
+    },
+    {
+        "name": "mombasa",
+        "period_id": "803"
+    },
+    {
+        "name": "nawanagar",
+        "period_id": "1170"
+    },
+    {
+        "name": "navarra",
+        "period_id": "1016"
+    },
+    {
+        "name": "nassau",
+        "period_id": "854"
+    },
+    {
+        "name": "nassau_weilburg",
+        "period_id": "1078"
+    },
+    {
+        "name": "nassau_usingen",
+        "period_id": "1077"
+    },
+    {
+        "name": "naples",
+        "period_id": "1053"
+    },
+    {
+        "name": "naples",
+        "period_id": "1052"
+    },
+    {
+        "name": "naples",
+        "period_id": "1055"
+    },
+    {
+        "name": "naples",
+        "period_id": "1057"
+    },
+    {
+        "name": "naples",
+        "period_id": "1054"
+    },
+    {
+        "name": "naples",
+        "period_id": "1263"
+    },
+    {
+        "name": "new_guinea",
+        "period_id": "689"
+    },
+    {
+        "name": "new_hebrides",
+        "period_id": "637"
+    },
+    {
+        "name": "newfoundland",
+        "period_id": "680"
+    },
+    {
+        "name": "oldenburg",
+        "period_id": "658"
+    },
+    {
+        "name": "oldenburg",
+        "period_id": "976"
+    },
+    {
+        "name": "ottoman_empire",
+        "period_id": "498"
+    },
+    {
+        "name": "ottoman_empire",
+        "period_id": "499"
+    },
+    {
+        "name": "ottoman_empire",
+        "period_id": "500"
+    },
+    {
+        "name": "ottoman_empire",
+        "period_id": "501"
+    },
+    {
+        "name": "ottoman_empire",
+        "period_id": "502"
+    },
+    {
+        "name": "ottoman_empire",
+        "period_id": "933"
+    },
+    {
+        "name": "ottoman_empire",
+        "period_id": "1098"
+    },
+    {
+        "name": "ottoman_empire",
+        "period_id": "1097"
+    },
+    {
+        "name": "ottoman_empire",
+        "period_id": "1096"
+    },
+    {
+        "name": "ottoman_empire",
+        "period_id": "1095"
+    },
+    {
+        "name": "papal_states",
+        "period_id": "710"
+    },
+    {
+        "name": "papal_states",
+        "period_id": "711"
+    },
+    {
+        "name": "papal_states",
+        "period_id": "1067"
+    },
+    {
+        "name": "parma",
+        "period_id": "887"
+    },
+    {
+        "name": "further_austria",
+        "period_id": "1156"
+    },
+    {
+        "name": "porbandar",
+        "period_id": "1247"
+    },
+    {
+        "name": "portuguese_timor",
+        "period_id": "593"
+    },
+    {
+        "name": "portuguese_timor",
+        "period_id": "592"
+    },
+    {
+        "name": "prussia",
+        "period_id": "436"
+    },
+    {
+        "name": "prussia",
+        "period_id": "778"
+    },
+    {
+        "name": "prussia",
+        "period_id": "873"
+    },
+    {
+        "name": "prussia",
+        "period_id": "872"
+    },
+    {
+        "name": "prussia",
+        "period_id": "874"
+    },
+    {
+        "name": "prussia",
+        "period_id": "877"
+    },
+    {
+        "name": "prussia",
+        "period_id": "1060"
+    },
+    {
+        "name": "prussia",
+        "period_id": "878"
+    },
+    {
+        "name": "prussia",
+        "period_id": "941"
+    },
+    {
+        "name": "pudukkottai",
+        "period_id": "1110"
+    },
+    {
+        "name": "palatine_zweibrucken",
+        "period_id": "1250"
+    },
+    {
+        "name": "piedmont",
+        "period_id": "1181"
+    },
+    {
+        "name": "piedmont",
+        "period_id": "1180"
+    },
+    {
+        "name": "ras_al_khaimah",
+        "period_id": "984"
+    },
+    {
+        "name": "ratlam",
+        "period_id": "1168"
+    },
+    {
+        "name": "reuss_gera",
+        "period_id": "661"
+    },
+    {
+        "name": "reuss_gera",
+        "period_id": "1123"
+    },
+    {
+        "name": "reuss_greiz",
+        "period_id": "660"
+    },
+    {
+        "name": "reuss_greiz",
+        "period_id": "928"
+    },
+    {
+        "name": "central_american_republic",
+        "period_id": "850"
+    },
+    {
+        "name": "roman_republic",
+        "period_id": "1031"
+    },
+    {
+        "name": "roman_republic",
+        "period_id": "1032"
+    },
+    {
+        "name": "rhodesia",
+        "period_id": "536"
+    },
+    {
+        "name": "rhodesia",
+        "period_id": "535"
+    },
+    {
+        "name": "rhodesia",
+        "period_id": "534"
+    },
+    {
+        "name": "rhodesia",
+        "period_id": "485"
+    },
+    {
+        "name": "rhodesia_nyasaland",
+        "period_id": "534"
+    },
+    {
+        "name": "ruanda_burundi",
+        "period_id": "670"
+    },
+    {
+        "name": "ruanda_urundi",
+        "period_id": "669"
+    },
+    {
+        "name": "ryukyu",
+        "period_id": "1248"
+    },
+    {
+        "name": "saar",
+        "period_id": "297"
+    },
+    {
+        "name": "saxe_altenburg",
+        "period_id": "662"
+    },
+    {
+        "name": "saxe_altenburg",
+        "period_id": "1013"
+    },
+    {
+        "name": "saxe_weimar_eisenach",
+        "period_id": "473"
+    },
+    {
+        "name": "saxe_weimar_eisenach",
+        "period_id": "997"
+    },
+    {
+        "name": "saxe_weimar_eisenach",
+        "period_id": "996"
+    },
+    {
+        "name": "saxe_hildburghausen",
+        "period_id": "1241"
+    },
+    {
+        "name": "saxe_hildburghausen",
+        "period_id": "1257"
+    },
+    {
+        "name": "saxe_coburg_gotha",
+        "period_id": "663"
+    },
+    {
+        "name": "saxe_coburg_gotha",
+        "period_id": "1014"
+    },
+    {
+        "name": "saxe_meiningen",
+        "period_id": "470"
+    },
+    {
+        "name": "saxe_meiningen",
+        "period_id": "920"
+    },
+    {
+        "name": "saxony",
+        "period_id": "457"
+    },
+    {
+        "name": "saxony",
+        "period_id": "868"
+    },
+    {
+        "name": "saxony",
+        "period_id": "855"
+    },
+    {
+        "name": "saxony",
+        "period_id": "932"
+    },
+    {
+        "name": "saxony",
+        "period_id": "1062"
+    },
+    {
+        "name": "sarawak",
+        "period_id": "681"
+    },
+    {
+        "name": "sardinia",
+        "period_id": "773"
+    },
+    {
+        "name": "sardinia",
+        "period_id": "925"
+    },
+    {
+        "name": "sardinia",
+        "period_id": "924"
+    },
+    {
+        "name": "congo_free_state",
+        "period_id": "679"
+    },
+    {
+        "name": "north_borneo",
+        "period_id": "600"
+    },
+    {
+        "name": "silesia",
+        "period_id": "1196"
+    },
+    {
+        "name": "silesia",
+        "period_id": "1197"
+    },
+    {
+        "name": "silesia",
+        "period_id": "1198"
+    },
+    {
+        "name": "sicily",
+        "period_id": "1114"
+    },
+    {
+        "name": "sicily",
+        "period_id": "1116"
+    },
+    {
+        "name": "ussr",
+        "period_id": "28"
+    },
+    {
+        "name": "ussr",
+        "period_id": "32"
+    },
+    {
+        "name": "ussr",
+        "period_id": "64"
+    },
+    {
+        "name": "ussr",
+        "period_id": "65"
+    },
+    {
+        "name": "straits_settlements",
+        "period_id": "588"
+    },
+    {
+        "name": "straits_settlements",
+        "period_id": "587"
+    },
+    {
+        "name": "straits_settlements",
+        "period_id": "586"
+    },
+    {
+        "name": "tannu_tuva",
+        "period_id": "742"
+    },
+    {
+        "name": "tibet",
+        "period_id": "809"
+    },
+    {
+        "name": "tonk",
+        "period_id": "1092"
+    },
+    {
+        "name": "tonkin",
+        "period_id": "1211"
+    },
+    {
+        "name": "tuscany",
+        "period_id": "797"
+    },
+    {
+        "name": "tuscany",
+        "period_id": "786"
+    },
+    {
+        "name": "tuscany",
+        "period_id": "1175"
+    },
+    {
+        "name": "tuscany",
+        "period_id": "1176"
+    },
+    {
+        "name": "travancore",
+        "period_id": "1011"
+    },
+    {
+        "name": "transylvania",
+        "period_id": "1184"
+    },
+    {
+        "name": "umm_al_qaiwain",
+        "period_id": "986"
+    },
+    {
+        "name": "frankfurt",
+        "period_id": "910"
+    },
+    {
+        "name": "frankfurt",
+        "period_id": "1259"
+    },
+    {
+        "name": "french_west_africa",
+        "period_id": "640"
+    },
+    {
+        "name": "french_cochinchina",
+        "period_id": "751"
+    },
+    {
+        "name": "french_oceania",
+        "period_id": "735"
+    },
+    {
+        "name": "french_equatorial_africa",
+        "period_id": "639"
+    },
+    {
+        "name": "afars_issas",
+        "period_id": "678"
+    },
+    {
+        "name": "french_colonies",
+        "period_id": "962"
+    },
+    {
+        "name": "french_indochina",
+        "period_id": "350"
+    },
+    {
+        "name": "french_somaliland",
+        "period_id": "686"
+    },
+    {
+        "name": "hyderabad",
+        "period_id": "739"
+    },
+    {
+        "name": "hyderabad",
+        "period_id": "1109"
+    },
+    {
+        "name": "hejaz",
+        "period_id": "799"
+    },
+    {
+        "name": "hejaz",
+        "period_id": "807"
+    },
+    {
+        "name": "khorezm",
+        "period_id": "1149"
+    },
+    {
+        "name": "ceylon",
+        "period_id": "349"
+    },
+    {
+        "name": "ceylon",
+        "period_id": "351"
+    },
+    {
+        "name": "ceylon",
+        "period_id": "517"
+    },
+    {
+        "name": "ceylon",
+        "period_id": "518"
+    },
+    {
+        "name": "ceylon",
+        "period_id": "519"
+    },
+    {
+        "name": "ceylon",
+        "period_id": "978"
+    },
+    {
+        "name": "ceylon",
+        "period_id": "1015"
+    },
+    {
+        "name": "kiau_chau",
+        "period_id": "888"
+    },
+    {
+        "name": "czechoslovakia",
+        "period_id": "35"
+    },
+    {
+        "name": "czechoslovakia",
+        "period_id": "37"
+    },
+    {
+        "name": "czechoslovakia",
+        "period_id": "207"
+    },
+    {
+        "name": "czechoslovakia",
+        "period_id": "172"
+    },
+    {
+        "name": "sharjah",
+        "period_id": "985"
+    },
+    {
+        "name": "schaumburg_lippe",
+        "period_id": "659"
+    },
+    {
+        "name": "schaumburg_lippe",
+        "period_id": "990"
+    },
+    {
+        "name": "schaumburg_lippe",
+        "period_id": "991"
+    },
+    {
+        "name": "schwarzburg_sondershausen",
+        "period_id": "1264"
+    },
+    {
+        "name": "schwarzburg_rudolstadt",
+        "period_id": "664"
+    },
+    {
+        "name": "schwarzburg_rudolstadt",
+        "period_id": "927"
+    },
+    {
+        "name": "schwarzburg_rudolstadt",
+        "period_id": "969"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "1074"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "1142"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "842"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "843"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "841"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "840"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "839"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "1218"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "823"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "822"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "833"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "837"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "832"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "834"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "836"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "835"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "825"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "826"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "824"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "1258"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "1262"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "845"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "1217"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "1202"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "1059"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "1224"
+    },
+    {
+        "name": "swiss_cantons",
+        "period_id": "1261"
+    },
+    {
+        "name": "schleswig_holstein",
+        "period_id": "1070"
+    },
+    {
+        "name": "schleswig_holstein",
+        "period_id": "1069"
+    },
+    {
+        "name": "scotland",
+        "period_id": "849"
+    },
+    {
+        "name": "scotland",
+        "period_id": "852"
+    },
+    {
+        "name": "scotland",
+        "period_id": "1187"
+    },
+    {
+        "name": "scotland",
+        "period_id": "1188"
+    },
+    {
+        "name": "scotland",
+        "period_id": "1189"
+    },
+    {
+        "name": "spitsbergen",
+        "period_id": "685"
+    },
+    {
+        "name": "equatorial_african_states",
+        "period_id": "591"
+    },
+    {
+        "name": "fujairah",
+        "period_id": "983"
+    },
+    {
+        "name": "yugoslavia",
+        "period_id": "124"
+    },
+    {
+        "name": "yugoslavia",
+        "period_id": "138"
+    },
+    {
+        "name": "yugoslavia",
+        "period_id": "278"
+    },
+    {
+        "name": "south_arabia",
+        "period_id": "582"
+    },
+    {
+        "name": "southern_rhodesia",
+        "period_id": "485"
+    },
+    {
+        "name": "zar",
+        "period_id": "767"
+    },
+    {
+        "name": "south_vietnam",
+        "period_id": "539"
+    },
+    {
+        "name": "south_yemen",
+        "period_id": "430"
+    },
+    {
+        "name": "julich_berg",
+        "period_id": "1232"
+    },
+    {
+        "name": "julich_berg",
+        "period_id": "1260"
+    }
+]
